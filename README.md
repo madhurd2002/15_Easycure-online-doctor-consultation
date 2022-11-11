@@ -8,5 +8,5 @@ The Internet has been a steady source of medical data previously; it has just as
 
 - [@Madhur Dukhande](https://github.com/madhurd2002)
 - [@Mayur Jain](https://github.com/Mayur1304)
-- [@Aryan Amin](https://github.com/)
+- [@Aryan Amin](https://github.com/aryan299)
 
